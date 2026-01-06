@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚗 Car Showcase - Next.js
 
 A modern **single‑page car marketplace** built with **Next.js**, featuring *search, filters, dynamic pricing*, and *responsive UI*.  
