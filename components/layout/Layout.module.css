@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 600px;
+  border-radius: 7px;
+  background-color: #befa00;
+  margin: 10px auto;
+  padding: 20px;
+}
+
+.header h1 {
+  font-size: 28px;
+  color: black;
+  font-weight: 800;
+  text-align: center;
+}
+.header p {
+  font-size: 18px;
+  font-weight: 600;
+  padding-top: 7px;
+}
+.footer {
+  background-color: rgb(234, 234, 234);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}
+.link {
+  display: flex;
+}
+.continar {
+  min-height: 1000px;
+  margin: 50px auto;
+}

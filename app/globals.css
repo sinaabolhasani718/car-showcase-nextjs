@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #ffffff;
+  --color-foreground: #171717;
+  --font-sans: system-ui, sans-serif;
+}
+
+body {
+  @apply bg-background text-foreground font-sans;
+
+  
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  @apply no-underline text-inherit;
+}

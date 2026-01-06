@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 25px;
+  width: 1000px;
+  margin: auto;
+}
+.box {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  border-radius: 5px;
+  padding: 7px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.img {
+  width: 250px;
+  border-radius: 5px;
+  padding-bottom: 7px;
+}
+.box h4 {
+  font-size: 14px;
+  font-weight: 700;
+}
+.box p {
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(73, 73, 73);
+}
+.box ul {
+  font-size: 14px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.btn {
+  background-color: #befa00;
+  padding: 1px 4px;
+  border-radius: 5px;
+}
