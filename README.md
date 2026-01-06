@@ -1,36 +1,54 @@
-# Car Showcase - Next.js
+# 🚗 Car Showcase - Next.js
 
-A modern single-page car marketplace built with **Next.js**.  
-This project demonstrates a full-featured car listing website with:
+A modern **single‑page car marketplace** built with **Next.js**, featuring *search, filters, dynamic pricing*, and *responsive UI*.  
+This project is part of my portfolio to showcase real‑world web app skills in React and Next.js.
 
-- 🚗 Car search by name, model, or category
-- 🔎 Advanced filters (price, category, year, location)
-- 💰 Price display with formatting
-- 📄 Individual car detail pages
-- 🖤 Responsive and clean UI
+---
 
-### Tech Stack
-- **Next.js 13+**
-- **React**
-- **CSS Modules**
-- **React Icons**
-- **Vercel deployment ready**
+## 💡 Features
 
-### Features
-- Single-page layout with multiple sections
-- Dynamic rendering of car data
-- Modern, responsive design
-- Easy to extend and customize
+- 🔍 **Search cars** by name, model, or category  
+- 🧰 **Filter** by price, category, year & location  
+- 🧮 Display formatted prices  
+- 🔗 **Dynamic car detail pages**  
+- 📱 **Responsive layout** for mobile & desktop  
+- 🛠️ Clean and modular codebase
 
-### Screenshot
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Use |
+|------------|-----|
+| Next.js 13 | Framework |
+| React | UI |
+| CSS Modules | Styles |
+| React Icons | Icons |
+| Vercel | Deployment |
+
+---
+
+## 📸 Screenshot
+
 ![Car Showcase Screenshot](./screenshot.png)
 
-### Live Demo
-[View Live Site](https://your-vercel-url.vercel.app)
+> Replace with your actual screenshot file.
 
-### How to Run Locally
+---
+
+## 🚀 Live Demo
+
+👉 https://your-vercel-url.vercel.app  
+(If deployed — otherwise remove this section)
+
+---
+
+## 📦 Getting Started
+
+To run locally:
+
 ```bash
-git clone https://github.com/yourusername/car-showcase-nextjs.git
+git clone https://github.com/sinaabolhasani718/car-showcase-nextjs.git
 cd car-showcase-nextjs
 npm install
 npm run dev
